@@ -1,0 +1,25 @@
+<article class=\"flex items-center w-full max-w-4xl px-6 py-3 mx-4 my-2 transition duration-300 bg-transparent border-2 border-gray-700 rounded-xl sm:gap-8 hover:border-emerald-900\" id=\"
+\"><div class=\"hidden sm:grid sm:size-20 sm:shrink-0 sm:place-content-center [&amp;&gt;svg]:size-12\" aria-hidden=\"true\">
+</div><div class=\"my-1\"><div _=\"
+\" class=\"font-medium cursor-pointer text-md\"><span class=\"text-xs text-gray-600\">#
+</span> <a href=\"#\">
+</a></div><!-- <p class=\"mt-1 text-sm text-gray-400\">\n                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates, commodi!\n                    </p> --><div class=\"mt-4 sm:flex sm:items-center sm:gap-3\"><div class=\"flex items-center justify-center gap-1 pr-4 text-gray-500 border-r border-gray-600\"><svg class=\"w-4 h-4\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z\"></path></svg><p class=\"text-xs font-medium\">
+s</p></div><p class=\"pr-4 mt-2 text-xs font-medium text-gray-500 border-r border-gray-600 sm:mt-0\">
+</p><p class=\"mt-2 text-xs font-medium text-gray-500 sm:mt-0\">Languages: 
+ 
+, 
+</p></div></div>
+<!-- TRANSLATE --> <button class=\"p-1 font-bold transition duration-300 rounded-lg text-sky-200 bg-sky-800/60 hover:bg-sky-800\" hx-get=\"
+\" hx-target=\"body\" hx-swap=\"beforeend\" hx-swap=\"outerHTML\" hx-target=\"
+\"><i class=\"px-1 text-xl ti ti-language-hiragana\"></i></button><!-- EDIT --> <button _=\"
+\" class=\"p-1 font-bold transition duration-300 rounded-lg text-emerald-200 bg-emerald-700/60 hover:bg-emerald-700\"><i class=\"px-1 text-xl ti ti-edit\"></i></button><!-- DOWNLOAD --> <button hx-get=\"
+\" hx-target=\"body\" hx-swap=\"beforeend\" class=\"p-1 font-bold transition duration-300 rounded-lg text-emerald-200 bg-emerald-700/60 hover:bg-emerald-700\"><i class=\"px-1 text-xl ti ti-download\"></i></button>
+<!-- DELETE --> <button hx-delete=\"
+\" class=\"flex items-center justify-center p-1 font-bold text-red-200 transition duration-300 rounded-lg bg-red-800/60 hover:bg-red-800\" hx-confirm=\"
+\" hx-swap=\"outerHTML\" hx-target=\"
+\"><i class=\"px-1 text-xl ti ti-trash\"></i></button>
+</article>
+<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"text-green-500/70\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"icon icon-tabler icons-tabler-outline icon-tabler-circle-check\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path> <path d=\"M12 12m-9 0a9 9 0 1 0 18 0a9 9 0 1 0 -18 0\"></path> <path d=\"M9 12l2 2l4 -4\"></path></svg>
+<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"animate-pulse text-sky-500/70\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"icon icon-tabler icons-tabler-outline icon-tabler-language-hiragana\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path> <path d=\"M4 5h7\"></path> <path d=\"M7 4c0 4.846 0 7 .5 8\"></path> <path d=\"M10 8.5c0 2.286 -2 4.5 -3.5 4.5s-2.5 -1.135 -2.5 -2c0 -2 1 -3 3 -3s5 .57 5 2.857c0 1.524 -.667 2.571 -2 3.143\"></path> <path d=\"M12 20l4 -9l4 9\"></path> <path d=\"M19.1 18h-6.2\"></path></svg>
+<h1>error </h1>
+<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"animate-spin\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"icon icon-tabler icons-tabler-outline icon-tabler-loader-2\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path> <path d=\"M12 3a9 9 0 1 0 9 9\"></path></svg>
